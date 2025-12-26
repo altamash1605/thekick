@@ -82,7 +82,7 @@ export function Footer() {
                             K
                         </div>
                         <span className="text-sm text-neutral-500">
-                            © 2024 The Kick Martial Arts Academy.
+                            © 2025 The Kick Martial Arts Academy. All rights reserved.
                         </span>
                     </div>
                     <div className="flex gap-6 text-sm text-neutral-500">
